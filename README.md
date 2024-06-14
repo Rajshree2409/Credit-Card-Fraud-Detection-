@@ -3,13 +3,13 @@ This project focuses on developing a system for detecting fraudulent credit card
 
 This project focuses on developing a system for detecting fraudulent credit card transactions using machine learning techniques. The goal is to accurately identify potentially fraudulent transactions and minimize financial losses.
 
-Project Overview
+# Project Overview
 Credit card fraud detection involves identifying suspicious transactions that deviate from normal spending patterns. This project utilizes various machine learning algorithms to classify transactions as either legitimate or fraudulent.
 
-Dataset
+# Dataset
 The project uses a publicly available dataset from Kaggle. The dataset contains credit card transactions over a span of two days, with features that have been anonymized for confidentiality reasons.
 
-Data Preprocessing
+# Data Preprocessing
 Handling Imbalance:
 
 The dataset is highly imbalanced, with the majority of transactions being legitimate.
